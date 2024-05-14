@@ -1,0 +1,43 @@
+[
+  {
+    "name": "LOGO",
+    "desc": "Designed logo using Adobe Illustrator and Photoshop.",
+    "image": "LOGO",
+    "category": "Logo Design",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1E2WhudLWOJksX6WV-eqHhIjWU0LARLeD?usp=sharing",
+      "code": "https://drive.google.com/drive/folders/1E2WhudLWOJksX6WV-eqHhIjWU0LARLeD?usp=sharing"
+    }
+  },
+  {
+    "name": "Graphics Design",
+    "desc": "Designed template using Adobe Illustrator and Photoshop.",
+    "image": "GRAPHICS",
+    "category": "Graphics Design",
+    "links": {
+      "view": "https://drive.google.com/drive/folders/1ymQBqxS_9Xfid5-pw1stljRrH5LTYKqR?usp=sharing",
+      "code": "https://drive.google.com/drive/folders/1ymQBqxS_9Xfid5-pw1stljRrH5LTYKqR?usp=sharing"
+    }
+  },
+  {
+    "name": "Project Demonstration",
+    "desc": "Sanitary pad Vending Machine. It's a project for X-Tech Studio 3.0. It's a team project.",
+    "image": "vending",
+    "category": "project",
+    "links": {
+      "view": "https://www.facebook.com/photo.php?fbid=556749583165390&set=pb.100064910581002.-2207520000.&type=3",
+      "code": "https://www.facebook.com/photo.php?fbid=556749583165390&set=pb.100064910581002.-2207520000.&type=3"
+    }
+  },
+  {
+    "name": "Solar Tracking System",
+    "desc": "Solar tracking system is a system that adjusts the position of solar panels or reflective surfaces to follow the course of the sun",
+    "image": "solar",
+    "category": "project",
+    "links": {
+      "view": "https://drive.google.com/file/d/1GRTO7yV33zJHT26JiHORhUwUFQvTXY-l/view?usp=drive_link",
+      "code": "https://drive.google.com/file/d/1GRTO7yV33zJHT26JiHORhUwUFQvTXY-l/view?usp=drive_link"
+    }
+  }
+]
+ 
